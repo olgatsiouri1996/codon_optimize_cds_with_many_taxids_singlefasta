@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Exec=/home/linuxubuntu2004/Documents/GitHub/codon_optimize_cds_with_many_taxids_singlefasta/src/codon_optimize_cds_with_many_taxids_singlefasta_gui.py
+Icon=/home/linuxubuntu2004/Documents/GitHub/codon_optimize_cds_with_many_taxids_singlefasta/img/dna.png
+Name=codon_optimize_cds_with_many_taxids_singlefasta_gui
+Type=Application
