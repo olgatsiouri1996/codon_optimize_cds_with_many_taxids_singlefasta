@@ -1,5 +1,5 @@
-# codon_optimize_cds_with_many_taxids_singlefasta
- Linux GUI app to codon optimize many single-fasta files with coding sequences, using many taxonomy ids
+# codon_optimize_cds_with_many_taxids_singlefasta [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5893772.svg)](https://doi.org/10.5281/zenodo.5893772)
+Linux GUI app to codon optimize many single-fasta files with coding sequences, using many taxonomy ids
 
 ![](img/program_gui.png)
 
